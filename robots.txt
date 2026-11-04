@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moldremediationmodesto.com/sitemap.xml
